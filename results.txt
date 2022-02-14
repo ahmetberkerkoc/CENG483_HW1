@@ -1,0 +1,229 @@
+-----
+Per Channel No grid
+-----
+
+Query1
+
+For interval: 4
+Accuracy: 98.0
+
+For interval: 8
+Accuracy: 98.0
+
+For interval: 16
+Accuracy: 98.0
+
+For interval: 32
+Accuracy: 97.5
+
+For interval: 64
+Accuracy: 93.5
+
+Query2
+
+For interval: 4
+Accuracy: 100.0
+
+For interval: 8
+Accuracy: 100.0
+
+For interval: 16
+Accuracy: 100.0
+
+For interval: 32
+Accuracy: 100.0
+
+For interval: 64
+Accuracy: 100.0
+
+Query3
+
+For interval: 4
+Accuracy: 11.5
+
+For interval: 8
+Accuracy: 12.5
+
+For interval: 16
+Accuracy: 12.5
+
+For interval: 32
+Accuracy: 13.5
+
+For interval: 64
+Accuracy: 14.0
+
+-----
+3D Channel No grid
+-----
+
+Query1
+
+For interval: 16
+Accuracy: 100.0
+
+For interval: 32
+Accuracy: 100.0
+
+For interval: 64
+Accuracy: 100.0
+
+For interval: 128
+Accuracy: 93.5
+
+
+Query2
+
+For interval: 16
+Accuracy: 100.0
+
+For interval: 32
+Accuracy: 100.0
+
+For interval: 64
+Accuracy: 100.0
+
+For interval: 128
+Accuracy: 100.0
+
+Query3
+
+
+For interval: 16
+Accuracy: 11.5
+
+For interval: 32
+Accuracy: 11.5
+
+For interval: 64
+Accuracy: 12.5
+
+For interval: 128
+Accuracy: 8.5
+
+---------------------------------------------------------- 
+
+Best Configrations 
+
+PerChannel: 
+    Query1 ->16 
+    Query2 ->16 
+    Query3 ->64
+
+3D Color:
+    Query1 ->16 
+    Query2 ->16 
+    Query3 ->64
+---------------------------------------------------------
+With Grid
+
+
+Query1 3D
+
+For grid: 12
+For interval: 16
+Accuracy: 100.0
+
+For grid: 16
+For interval: 16
+Accuracy: 100.0
+
+For grid: 24
+For interval: 16
+Accuracy: 100.0
+
+For grid: 48
+For interval: 16
+Accuracy: 100.0
+
+Query1 Per Channel
+
+For grid: 12
+For interval: 16
+Accuracy: 100.0
+
+For grid: 16
+For interval: 16
+Accuracy: 100.0
+
+For grid: 24
+For interval: 16
+Accuracy: 100.0
+
+For grid: 48
+For interval: 16
+Accuracy: 100.0
+
+
+Query2 3D 
+
+For grid: 12
+For interval: 16
+Accuracy: 55.5
+
+For grid: 16
+For interval: 16
+Accuracy: 57.5
+
+For grid: 24
+For interval: 16
+Accuracy: 60.5
+
+For grid: 48
+For interval: 16
+Accuracy: 74.5
+
+Query2 Per Channel
+
+For grid: 12
+For interval: 16
+Accuracy: 12.0
+
+For grid: 16
+For interval: 16
+Accuracy: 13.0
+
+For grid: 24
+For interval: 16
+Accuracy: 19.0
+
+For grid: 48
+For interval: 16
+Accuracy: 36.0
+
+Query3 3D
+
+For grid: 12
+For interval: 64
+Accuracy: 32.5
+
+For grid: 16
+For interval: 64
+Accuracy: 27.0
+
+For grid: 24
+For interval: 64
+Accuracy: 22.5
+
+For grid: 48
+For interval: 64
+Accuracy: 16.5
+
+Query3 Per Channel
+
+For grid: 12
+For interval: 64
+Accuracy: 31.5
+
+For grid: 16
+For interval: 64
+Accuracy: 32.5
+
+For grid: 24
+For interval: 64
+Accuracy: 31.5
+
+For grid: 48
+For interval: 64
+Accuracy: 24.0
+
